@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniude Paul Ifeanyi</h1>
 
 <h3 align="center">
-Statistics Student | Data Analyst | Aspiring Machine Learning Engineer
+Statistics Student | Data Scientist | Aspiring Machine Learning Engineer
 </h3>
 
 ---
